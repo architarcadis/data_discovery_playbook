@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+numpy
+Pillow
+openpyxl
+python-pptx
+reportlab
+requests
+sqlalchemy
+psycopg2-binary
+ydata-profiling
